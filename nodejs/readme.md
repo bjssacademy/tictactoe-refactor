@@ -1,0 +1,1 @@
+Run 1node game.js` from the commandline to start.
